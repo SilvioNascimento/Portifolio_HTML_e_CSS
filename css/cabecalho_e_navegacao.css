@@ -1,6 +1,6 @@
 :root {
   --primary: #10568f;
-  --primary-dark: #041729;
+  --primary-dark: #1a3650;
   --white: #fff;
   --dark: #2d3748;
   --shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
@@ -9,7 +9,7 @@
 
 /* ===== CABEÇALHO ===== */
 .cabecalho {
-  background: linear-gradient(295deg, var(--primary), var(--primary-dark));
+  background: linear-gradient(310deg, var(--primary), var(--primary-dark));
   color: var(--white);
   text-align: center;
   padding: 60px 0;
