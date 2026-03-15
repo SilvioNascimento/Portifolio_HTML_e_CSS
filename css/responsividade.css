@@ -24,7 +24,7 @@
         text-align: center;
     }
 
-    /* .sobre-conteudo,
+    .sobre-conteudo,
     .contato-conteudo {
         grid-template-columns: 1fr;
         gap: 30px;
@@ -34,7 +34,7 @@
         max-height: 300px;
     }
     
-    .grade-premiacoes {
+    /* .grade-premiacoes {
         grid-template-columns: 1fr;
     } */
 
